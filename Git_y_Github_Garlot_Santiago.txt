@@ -1,0 +1,15 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+    
+El kernel de Linux es un proyecto de software de código abierto con un alcance bastante amplio. Durante la mayor parte del mantenimiento del kernel de Linux (1991-2002), los cambios en el software se realizaban a través de parches y archivos. En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. Algunos de los objetivos del nuevo sistema fueron los siguientes:
+Velocidad, Diseño sencillo, Gran soporte para desarrollo no lineal (miles de ramas paralelas), Completamente distribuido, Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+
+2. ¿A quién pertenece actualmente Github y por qué?
+
+Microsoft adquiere GitHub, y lo hace por 7.500 millones de dólares, una de las operaciones económicas más costosas de su historia.
+El mensaje oficial de confirmación de Microsoft habla de cómo este acuerdo "refuerza nuestro compromiso con la libertad, apertura e innovación para los desarrolladores". GitHub mantendrá su marca y operará de forma independiente. 
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Una manera fácil de manipular nuestros repositorios alojados en GitHub es a través de la aplicación de interfaz gráfica de usuario nombrada GitHub Desktop.
+GitHub Desktop nos permite agregar, crear y clonar repositorios de una manera sencilla sin tener que estar escribiendo los comandos desde Git Bash que se instala por defecto con Git.
