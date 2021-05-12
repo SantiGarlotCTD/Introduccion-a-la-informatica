@@ -1,0 +1,1 @@
+Mochila del viajero de Santiago Garlot, con la recopilacion de las actividades grupales y presentaciones realizadas durante el cursado de "Introduccion a la Informatica" para Certified Tech Developer.
